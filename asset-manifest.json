@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.23478d96.css",
+    "main.js": "/static/js/main.376ce565.js",
+    "static/media/banner.png": "/static/media/banner.c4253e7b8c29679753d8.png",
+    "static/media/GandhiSans-Bold.otf": "/static/media/GandhiSans-Bold.dec9b9272eebe0777746.otf",
+    "static/media/GandhiSans-Regular.otf": "/static/media/GandhiSans-Regular.c2149b5286c581348418.otf",
+    "static/media/instagram.svg": "/static/media/instagram.9fd19e8d7ab576f5b61c888867cf9d93.svg",
+    "static/media/twitter.svg": "/static/media/twitter.ce613670c25a31cc2bc519510f7352b0.svg",
+    "static/media/facebook.svg": "/static/media/facebook.c895afb0a886aea0ac5f42ea271749e1.svg",
+    "index.html": "/index.html",
+    "main.23478d96.css.map": "/static/css/main.23478d96.css.map",
+    "main.376ce565.js.map": "/static/js/main.376ce565.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.23478d96.css",
+    "static/js/main.376ce565.js"
+  ]
+}
